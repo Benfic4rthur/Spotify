@@ -74,6 +74,9 @@ nav.navbar-transparente .navbar-toggler {
 .capa {
     text-align: center;
 }
+.carousel-control-next, .carousel-control-prev{
+    width: 5%;
+}
 
 /*ESTRUTURA DE CONTEÚDOS*/
 .caixa {
@@ -103,22 +106,26 @@ h3 {
     color: white;
 }
 
-.rotacionar{
+.rotacionar {
     transform: rotate(30deg);
-    padding-left: 80px ;
+    padding-left: 80px;
 }
-.icons{
+
+.icons {
     margin-top: 50px;
     margin-bottom: 20px;
     margin-left: 80px;
 }
-.icons h2{
-font-size: 2.2em;
+
+.icons h2 {
+    font-size: 2.2em;
 }
-.icons p{
+
+.icons p {
     margin-top: -10px;
     font-size: 1.2em;
 }
+
 /*TIPOGRAFIA*/
 h1 {
     font-weight: 900;
@@ -179,6 +186,7 @@ h3 {
         font-size: 6em;
     }
 }
+
 /*rodapé*/
 footer {
     background: black;
@@ -186,24 +194,29 @@ footer {
     padding: 50px 0 20px 0;
     position: relative;
 }
-footer h4{
+
+footer h4 {
     color: #919496;
     font-size: 0.8em;
     text-transform: uppercase;
 }
-footer .navbar-nav a{
+
+footer .navbar-nav a {
     color: white;
     font-size: 0.8em;
 }
-footer .navbar-nav a:hover{
+
+footer .navbar-nav a:hover {
     color: #9bf0e1;
     font-size: 0.8em;
     text-decoration: none;
 }
-footer ul{
+
+footer ul {
     list-style: none;
 }
-footer ul li{
+
+footer ul li {
     float: right;
     margin: 0 5px;
 }
