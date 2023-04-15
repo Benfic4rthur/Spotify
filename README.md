@@ -1,1 +1,1 @@
-Abra para visualizar o site: https://benfic4rthur.github.io/Spotify/
+Clique no link para visualizar o site: https://benfic4rthur.github.io/Spotify/
